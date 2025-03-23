@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\interfaces\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\interfaces\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\voyantis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\voyantis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|c:\\oron\\exams\\voyantis\\dotnet\\voyantis\\voyantis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{144E88B9-7952-48EA-B0BC-6C65BAAB3136}|Voyantis\\Voyantis.csproj|solutionrelative:voyantis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "Voyantis\\Controllers\\QueueController.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Controllers\\QueueController.cs*",
+              "RelativeToolTip": "Voyantis\\Controllers\\QueueController.cs*",
+              "ViewState": "AgIAAB8AAACAZmZmZiYnwDEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:46:36.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Voyantis\\Services\\LogService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Services\\LogService.cs",
+              "RelativeToolTip": "Voyantis\\Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:33:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\appsettings.json",
+              "RelativeDocumentMoniker": "Voyantis\\appsettings.json",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\appsettings.json",
+              "RelativeToolTip": "Voyantis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T09:24:11.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "Voyantis\\Services\\QueueService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Services\\QueueService.cs",
+              "RelativeToolTip": "Voyantis\\Services\\QueueService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:23:31.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IQueueService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Interfaces\\IQueueService.cs",
+              "RelativeDocumentMoniker": "Voyantis\\Interfaces\\IQueueService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Interfaces\\IQueueService.cs",
+              "RelativeToolTip": "Voyantis\\Interfaces\\IQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:23:05.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Services\\MainService.cs",
+              "RelativeDocumentMoniker": "Voyantis\\Services\\MainService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Services\\MainService.cs",
+              "RelativeToolTip": "Voyantis\\Services\\MainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:20:49.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Program.cs",
+              "RelativeDocumentMoniker": "Voyantis\\Program.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Program.cs",
+              "RelativeToolTip": "Voyantis\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:14:53.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Voyantis\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Voyantis\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T09:13:18.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Voyantis",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Voyantis.csproj",
+              "RelativeDocumentMoniker": "Voyantis\\Voyantis.csproj",
+              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\Voyantis\\Voyantis\\Voyantis.csproj",
+              "RelativeToolTip": "Voyantis\\Voyantis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T09:12:51.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
